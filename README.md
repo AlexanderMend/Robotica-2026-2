@@ -1,4 +1,4 @@
-# Robotica-2026-2
+# Robotica-2026-1
 ### Descripción
 Repositorio de entregas de prácticas de Robótica
 ### Integrantes 
